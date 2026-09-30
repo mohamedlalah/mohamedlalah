@@ -1,5 +1,11 @@
 # Hi, I'm Mohamed LALAH 👋
 
+<p align="center">
+  <a href="README.md"><b>English</b></a> |
+  <a href="README_AR.md">العربية</a> |
+  <a href="README_FR.md">Français</a>
+</p>
+
 ### Android & Android TV Developer • Creator of SecretoTools • Tech Creator behind Secretofnet
 
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
