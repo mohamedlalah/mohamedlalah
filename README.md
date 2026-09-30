@@ -2,6 +2,13 @@
 
 ### Android & Android TV Developer • Creator of SecretoTools • Tech Creator behind Secretofnet
 
+![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android%20TV-Developer-3DDC84?logo=android&logoColor=white)
+![Google TV](https://img.shields.io/badge/Google%20TV-Developer-4285F4?logo=google&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Developer-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Developer-4285F4?logo=jetpackcompose&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)
+
 I build practical tools and applications for **Android TV, Google TV and Android**, with a focus on making TV devices easier to use, test and manage.
 
 I'm also the creator behind **Secretofnet**, where I share technology tutorials, Android TV & Google TV guides, apps, tools and practical solutions with a large tech community.
