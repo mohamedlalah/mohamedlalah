@@ -1,4 +1,9 @@
 # Bonjour, je suis Mohamed LALAH 👋
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README_AR.md">العربية</a> |
+  <a href="README_FR.md"><b>Français</b></a>
+</p>
 
 ### Développeur Android & Android TV • Créateur de SecretoTools • Créateur de contenu tech derrière Secretofnet
 
