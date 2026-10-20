@@ -23,6 +23,14 @@ Je suis également le créateur de **Secretofnet**, où je partage des tutoriels
 
 ---
 
+## ❤️ Soutenir mon travail
+
+Si mes projets open source et mes outils pour **Android TV et Google TV** vous sont utiles, vous pouvez soutenir leur développement. Le soutien est entièrement facultatif et contribue à la maintenance, aux tests et à l'ajout de nouvelles fonctionnalités.
+
+[![Soutenir sur GitHub](https://img.shields.io/badge/GitHub_Sponsors-Me_soutenir-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mohamedlalah)
+
+---
+
 ## 🚀 Applications publiées
 
 ### 📺 SecretoTools TV
