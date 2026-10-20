@@ -23,6 +23,14 @@
 
 ---
 
+## ❤️ ادعم مشاريعي
+
+إذا كانت أدواتي ومشاريعي المفتوحة المصدر لأجهزة **Android TV وGoogle TV** مفيدة لك، يمكنك المساهمة في دعم استمرار تطويرها. الدعم اختياري تمامًا، ويساعدني على صيانة المشاريع واختبارها وإضافة ميزات جديدة.
+
+[![الدعم عبر GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-ادعم_مشاريعي-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mohamedlalah)
+
+---
+
 ## 🚀 التطبيقات المنشورة
 
 ### 📺 SecretoTools TV
