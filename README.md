@@ -3,7 +3,9 @@
 <p align="center">
   <a href="README.md"><b>English</b></a> ·
   <a href="README_AR.md">العربية</a> ·
-  <a href="README_FR.md">Français</a>
+  <a href="README_FR.md">Français</a> ·
+  <a href="README_ES.md">Español</a> ·
+  <a href="README_PT_BR.md">Português (Brasil)</a>
 </p>
 
 <p align="center">
