@@ -50,6 +50,7 @@ The latest **v1.3.3** release brings an expanded Wallpaper Studio experience, in
 
 - **[SecretoTools TV](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv)** — TV device information and diagnostics.
 - **[Secreto Hub](https://play.google.com/store/apps/details?id=com.secretotools.hub)** — Android TV / Google TV utility from the SecretoTools ecosystem.
+- **Secreto TV Screen Test** — Published on Google Play; screen and display diagnostics for Android TV / Google TV. [GitHub repository](https://github.com/mohamedlalah/SecretoTVScreenTest).
 
 Find other projects, updates and download pages at **[secretotools.com](https://secretotools.com/)**.
 
