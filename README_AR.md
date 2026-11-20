@@ -1,145 +1,84 @@
-# مرحبًا، أنا Mohamed LALAH 👋
+# مرحبًا، أنا محمد لالاح (Mohamed LALAH) 👋
+
 <p align="center">
-  <a href="README.md">English</a> |
-  <a href="README_AR.md"><b>العربية</b></a> |
-  <a href="README_FR.md">Français</a>
+  <a href="README.md">English</a> ·
+  <a href="README_AR.md"><b>العربية</b></a> ·
+  <a href="README_FR.md">Français</a> ·
+  <a href="README_ES.md">Español</a> ·
+  <a href="README_PT_BR.md">Português (Brasil)</a>
 </p>
 
-### مطور Android وAndroid TV • مؤسس SecretoTools • صانع المحتوى التقني وراء Secretofnet
+<p align="center"><strong>متخصص في التكنولوجيا بخبرة تزيد على 30 عامًا</strong><br>مطور Android وAndroid TV · مؤسس SecretoTools · صانع محتوى SecretofNet</p>
 
-![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
-![Android TV](https://img.shields.io/badge/Android%20TV-Developer-3DDC84?logo=android&logoColor=white)
-![Google TV](https://img.shields.io/badge/Google%20TV-Developer-4285F4?logo=google&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Developer-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Developer-4285F4?logo=jetpackcompose&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)
+<p align="center">
+  <a href="https://secretotools.com/"><img alt="SecretoTools" src="https://img.shields.io/badge/SecretoTools-Website-087EBC?style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@secretofnet"><img alt="YouTube" src="https://img.shields.io/badge/SecretofNet-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/secretofnet/"><img alt="LinkedIn" src="https://img.shields.io/badge/SecretofNet-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-أطوّر أدوات وتطبيقات عملية لأنظمة **Android TV وGoogle TV وAndroid**، مع التركيز على جعل أجهزة التلفزيون أسهل في الاستخدام والاختبار والإدارة.
+أطوّر وأختبر تطبيقات عملية لأنظمة **Android TV وGoogle TV وAndroid**، من واجهات التلفزيون وأدوات الاختصارات إلى تشخيص الأجهزة وإدارتها. تمتد خبرتي التقنية العامة لأكثر من ثلاثة عقود، بينما يُعد تطوير تطبيقات Android TV جزءًا من هذه المسيرة.
 
-وأنا أيضًا صاحب **Secretofnet**، حيث أشارك شروحات تقنية، ودروس Android TV وGoogle TV، والتطبيقات والأدوات والحلول العملية مع مجتمع كبير مهتم بالتكنولوجيا.
+ومن خلال **SecretofNet**، أنشر شروحات وحلولًا تقنية للجمهور العربي والدولي.
 
-🌐 **SecretoTools:** https://secretotools.com/  
-📺 **YouTube:** https://www.youtube.com/@secretofnet
+> **هدفي: التقنية أسهل لحياة أفضل.**
 
----
+## ⭐ المشاريع المميزة
 
-## ❤️ ادعم مشاريعي
+| المشروع | وظيفته | الروابط |
+| --- | --- | --- |
+| **Secreto TV Launcher** | واجهة رئيسية قابلة للتخصيص للتلفزيون، مع المفضلة والاختصارات والأذان واستوديو الخلفيات السينمائية | [المستودع](https://github.com/mohamedlalah/SecretoTVLauncher) · [الإصدارات](https://github.com/mohamedlalah/SecretoTVLauncher/releases/latest) · [الموقع](https://secretotools.com/secreto-tv-launcher/) |
+| **Secreto TV Manager** | أداة لإدارة أجهزة التلفزيون المتوافقة وتطبيقاتها وملفاتها والتحكم عن بُعد | [المستودع](https://github.com/mohamedlalah/SecretoTVManager) · [الإصدارات](https://github.com/mohamedlalah/SecretoTVManager/releases) |
+| **Secreto TV Shortcuts** | اختصارات سهلة بالريموت للوصول إلى إعدادات Android TV | [المستودع](https://github.com/mohamedlalah/SecretoTVShortcuts) · [الإصدارات](https://github.com/mohamedlalah/SecretoTVShortcuts/releases) |
+| **Secreto TV Screen Test** | اختبارات الشاشة والألوان والتدرجات والبكسلات الميتة وتجانس العرض | [المستودع](https://github.com/mohamedlalah/SecretoTVScreenTest) · [الإصدارات](https://github.com/mohamedlalah/SecretoTVScreenTest/releases) · [Google Play](https://play.google.com/store/apps/details?id=com.secreto.tvscreentest) |
+| **SecretoTools TV** | معلومات الجهاز وتشخيص Android TV وGoogle TV | [Google Play](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv) |
+| **Secreto Hub** | تطبيق من منظومة SecretoTools لأجهزة Android TV وGoogle TV | [Google Play](https://play.google.com/store/apps/details?id=com.secretotools.hub) |
+| **Remouse Multilingual** | مؤشر فأرة متعدد اللغات يُتحكم فيه بريموت التلفزيون | [المستودع](https://github.com/mohamedlalah/remouse) |
 
-إذا كانت أدواتي ومشاريعي المفتوحة المصدر لأجهزة **Android TV وGoogle TV** مفيدة لك، يمكنك المساهمة في دعم استمرار تطويرها. الدعم اختياري تمامًا، ويساعدني على صيانة المشاريع واختبارها وإضافة ميزات جديدة.
+### 📺 Secreto TV Launcher — استوديو الخلفيات
 
-[![الدعم عبر GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-ادعم_مشاريعي-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mohamedlalah)
+يقدم الإصدار **v1.3.3** استوديو خلفيات موسعًا يضم مجموعات سينمائية وشتوية ومغربية وإسلامية، بإجمالي **19 خلفية متاحة**. تتضمن بعض المشاهد أصواتًا محيطية اختيارية. قد تختلف الميزات والتوفر حسب الجهاز والملفات المحمّلة.
 
----
+<p align="center"><a href="https://secretotools.com/secreto-tv-launcher/"><img src="https://raw.githubusercontent.com/mohamedlalah/secretotools-website/main/secreto-tv-launcher/assets/launcher-fireplace-home.webp" alt="Secreto TV Launcher — Classic Fireplace" width="95%"></a></p>
+<p align="center"><a href="https://github.com/mohamedlalah/SecretoTVLauncher/releases/latest"><img alt="Download" src="https://img.shields.io/badge/Download-Latest_Release-1F9CF0?style=for-the-badge&logo=github"></a> <a href="https://secretotools.com/secreto-tv-launcher/"><img alt="Screenshots" src="https://img.shields.io/badge/Explore-Screenshots_&_Features-134D72?style=for-the-badge"></a></p>
 
-## 🚀 التطبيقات المنشورة
+## 📱 تطبيقاتنا على Google Play
 
-### 📺 SecretoTools TV
+- **[SecretoTools TV](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv)** — معلومات أجهزة التلفزيون وأدوات التشخيص.
+- **[Secreto Hub](https://play.google.com/store/apps/details?id=com.secretotools.hub)** — تطبيق لأجهزة Android TV وGoogle TV ضمن منظومة SecretoTools.
+- **[Secreto TV Screen Test](https://play.google.com/store/apps/details?id=com.secreto.tvscreentest)** — اختبارات وتشخيص الشاشة لأجهزة Android TV وGoogle TV. [المستودع](https://github.com/mohamedlalah/SecretoTVScreenTest).
 
-أداة متخصصة في تشخيص الأجهزة وعرض معلومات النظام، مصممة لأجهزة **Android TV وGoogle TV**.
+للمزيد من المشاريع والتحديثات والتنزيلات، تفضل بزيارة **[secretotools.com](https://secretotools.com/)**.
 
-توفر مجموعة من المعلومات وأدوات الاختبار المتعلقة بالجهاز، والتخزين، والشبكة، وDRM، ومعلومات النظام.
+## ❤️ ساهم في استمرار التطوير المستقل
 
-**متوفر على Google Play**
+تحتاج هذه المشاريع إلى **تطوير واختبارات على الأجهزة وصيانة واستضافة وتوثيق** بشكل مستمر. يمكنك المساعدة عبر:
 
-[عرض SecretoTools TV على Google Play](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv)
+1. ⭐ إضافة نجمة (Star) للمستودعات التي تعجبك لمساعدة الآخرين على اكتشافها.
+2. ❤️ دعم التطوير عبر GitHub Sponsors.
+3. ▶️ الاشتراك في عضويات قناة SecretofNet على YouTube لدعم الشروحات والاختبارات والمشاريع المقبلة.
+4. 🐛 الإبلاغ عن المشاكل القابلة لإعادة الإنتاج وتقديم اقتراحات مفيدة.
 
----
+<p align="center"><a href="https://github.com/sponsors/mohamedlalah"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor_on_GitHub-Support_Development-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"></a> <a href="https://www.youtube.com/@secretofnet/join"><img alt="YouTube Membership" src="https://img.shields.io/badge/YouTube-Become_a_Member-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://github.com/mohamedlalah?tab=repositories"><img alt="Star projects" src="https://img.shields.io/badge/GitHub-Explore_&_Star_Projects-24292F?style=for-the-badge&logo=github&logoColor=white"></a></p>
 
-### 🔗 Secreto Hub
+**الدعم اختياري تمامًا، وكل نجمة أو ملاحظة أو مشاركة محل تقدير.**
 
-تطبيق لأجهزة **Android TV وGoogle TV** ضمن منظومة SecretoTools.
+## 🧰 التقنيات والاهتمامات
 
-**متوفر على Google Play**
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?logo=android&logoColor=white) ![Google TV](https://img.shields.io/badge/Google_TV-4285F4?logo=google&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white) ![ADB](https://img.shields.io/badge/ADB-Device_Testing-34495E) ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-24292F?logo=github)
 
-[عرض Secreto Hub على Google Play](https://play.google.com/store/apps/details?id=com.secretotools.hub)
+أركز على واجهات التلفزيون المصممة للريموت، والتوافق بين الأجهزة، والتشخيص، وإمكانية الوصول، وتعدد اللغات، والتعليم التقني العملي.
 
----
+## 🌍 عن SecretoTools وSecretofNet
 
-## 🛠️ أبرز مشاريعي على GitHub
-
-### 📺 Secreto TV Shortcuts
-
-تطبيق اختصارات خفيف مصمم لأجهزة **Android TV وGoogle TV**.
-
-يتيح الوصول السريع إلى أهم إعدادات التلفزيون، مثل Wi-Fi وBluetooth والتطبيقات والتخزين وإمكانية الوصول وخيارات المطور وتثبيت التطبيقات من مصادر خارجية والمزيد.
-
-🌍 متعدد اللغات: **English • العربية • Français • Español**
-
-[عرض المشروع](https://github.com/mohamedlalah/SecretoTVShortcuts) • [أحدث إصدار](https://github.com/mohamedlalah/SecretoTVShortcuts/releases/latest)
-
----
-
-### 🖱️ Remouse Multilingual
-
-مشروع متعدد اللغات لأجهزة Android TV، يركز على تحسين إمكانية الوصول والتفاعل باستخدام مؤشر شبيه بالفأرة على أجهزة التلفزيون.
-
-[عرض المشروع](https://github.com/mohamedlalah/remouse)
-
----
-
-## 🔬 قيد التطوير
-
-### 🖥️ Secreto TV Screen Test
-
-تطبيق لاختبار وتشخيص شاشات **Android TV وGoogle TV**.
-
-مصمم لمساعدة المستخدم على اختبار:
-
-- البكسلات الميتة
-- الإضاءة الخلفية
-- الألوان
-- التدرجات
-- Overscan
-- تجانس الشاشة
-- معلومات الشاشة
-
-قريبًا ضمن منظومة **SecretoTools**.
-
----
-
-## 💻 التقنيات والأدوات التي أعمل بها
-
-- Android وAndroid TV
-- Google TV
-- Kotlin
-- Jetpack Compose
-- Android Studio
-- ADB
-- Git وGitHub
-- اختبار وتشخيص أجهزة التلفزيون
-- تطوير تطبيقات Android متعددة اللغات
-
----
-
-## 🎯 SecretoTools
-
-**SecretoTools** هي مجموعة متنامية من التطبيقات والأدوات العملية التي أطورها لأجهزة Android TV وGoogle TV وAndroid.
-
-الهدف بسيط: تطوير أدوات مفيدة تقدم حلولًا عملية للمستخدمين.
-
-🌐 https://secretotools.com/
-
----
-
-## 📺 Secretofnet
-
-إلى جانب تطوير البرمجيات، أقدم محتوى تقنيًا عبر **Secretofnet** حول Android TV وGoogle TV والتطبيقات والشروحات وحل المشاكل والتقنيات الموجهة للمستخدم.
-
-[زيارة قناة Secretofnet على YouTube](https://www.youtube.com/@secretofnet)
-
----
-
-## 🤝 تواصل معي
+**SecretoTools** منظومة تطبيقات وأدوات عملية لتبسيط استخدام التكنولوجيا. أما **SecretofNet** فهي منصتي للشروحات والمحتوى التقني والحلول المجربة.
 
 - 🌐 [SecretoTools](https://secretotools.com/)
-- 📺 [YouTube](https://www.youtube.com/@secretofnet)
+- 📺 [SecretofNet — YouTube](https://www.youtube.com/@secretofnet)
+- 💼 [SecretofNet — LinkedIn](https://www.linkedin.com/company/secretofnet/)
 - 📸 [Instagram](https://www.instagram.com/secretofnet/)
-- 𝕏 [X / Twitter](https://twitter.com/LalahMohamed)
 - 🔵 [Facebook](https://www.facebook.com/satmed)
+- 𝕏 [X / Twitter](https://twitter.com/LalahMohamed)
 
 ---
 
-### أطور أدوات مفيدة لأجهزة Android TV وGoogle TV. 🚀
-
-**Mohamed LALAH**  
-مؤسس **SecretoTools** وصاحب **Secretofnet**
+<p align="center"><strong>التقنية أسهل لحياة أفضل · Technology made easier for a better life</strong><br><sub>Mohamed LALAH · SecretoTools · SecretofNet</sub></p>
