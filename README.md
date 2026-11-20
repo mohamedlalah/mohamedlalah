@@ -30,7 +30,9 @@ Through **SecretofNet**, I also publish tutorials, troubleshooting guides and te
 | **Secreto TV Launcher** | Customizable Android TV / Google TV home screen, favorites, shortcuts, Adhan and Wallpaper Studio with cinematic collections | [Repository](https://github.com/mohamedlalah/SecretoTVLauncher) · [Latest release](https://github.com/mohamedlalah/SecretoTVLauncher/releases/latest) · [Website](https://secretotools.com/secreto-tv-launcher/) |
 | **Secreto TV Manager** | Android-based companion utility for managing compatible TV devices, apps, files and remote interactions | [Repository](https://github.com/mohamedlalah/SecretoTVManager) · [Releases](https://github.com/mohamedlalah/SecretoTVManager/releases) |
 | **Secreto TV Shortcuts** | Remote-friendly shortcuts to important Android TV settings | [Repository](https://github.com/mohamedlalah/SecretoTVShortcuts) · [Releases](https://github.com/mohamedlalah/SecretoTVShortcuts/releases) |
-| **Secreto TV Screen Test** | TV display testing tools for colors, gradients, dead pixels, uniformity and display information | [Repository](https://github.com/mohamedlalah/SecretoTVScreenTest) · [Releases](https://github.com/mohamedlalah/SecretoTVScreenTest/releases) |
+| **Secreto TV Screen Test** | TV display testing tools for colors, gradients, dead pixels, uniformity and display information | [Repository](https://github.com/mohamedlalah/SecretoTVScreenTest) · [Releases](https://github.com/mohamedlalah/SecretoTVScreenTest/releases) · [Google Play](https://play.google.com/store/apps/details?id=com.secreto.tvscreentest) |
+| **SecretoTools TV** | TV device information and diagnostics for Android TV / Google TV | [Google Play](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv) | 
+| **Secreto Hub** | Android TV / Google TV utility from the SecretoTools ecosystem | [Google Play](https://play.google.com/store/apps/details?id=com.secretotools.hub) |
 | **Remouse Multilingual** | Multilingual remote-controlled mouse cursor experience for Android TV | [Repository](https://github.com/mohamedlalah/remouse) |
 
 ### 📺 Secreto TV Launcher — Wallpaper Studio
@@ -50,7 +52,7 @@ The latest **v1.3.3** release brings an expanded Wallpaper Studio experience, in
 
 - **[SecretoTools TV](https://play.google.com/store/apps/details?id=com.secretofnet.secretotoolstv)** — TV device information and diagnostics.
 - **[Secreto Hub](https://play.google.com/store/apps/details?id=com.secretotools.hub)** — Android TV / Google TV utility from the SecretoTools ecosystem.
-- **Secreto TV Screen Test** — Published on Google Play; screen and display diagnostics for Android TV / Google TV. [GitHub repository](https://github.com/mohamedlalah/SecretoTVScreenTest).
+- **[Secreto TV Screen Test](https://play.google.com/store/apps/details?id=com.secreto.tvscreentest)** — Published on Google Play; screen and display diagnostics for Android TV / Google TV. [GitHub repository](https://github.com/mohamedlalah/SecretoTVScreenTest).
 
 Find other projects, updates and download pages at **[secretotools.com](https://secretotools.com/)**.
 
